@@ -2,6 +2,7 @@
 ; Started September 13, 2024
 ; Part of the project for ECE 521
 
+
 ; ------------------------------------------------------------------------------
 ; Use defvar instead of setf or something to initialize arrays
 (defvar *my-array* (make-array 5) "A global array.")
