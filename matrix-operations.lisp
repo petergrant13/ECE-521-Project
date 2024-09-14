@@ -16,6 +16,7 @@
     result))
 
 
+
 (defun matrix-add (A B)
   "Add two matrices A and B."
   (let ((rows (length A))
